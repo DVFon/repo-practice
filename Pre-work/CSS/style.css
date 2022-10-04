@@ -1,0 +1,45 @@
+
+h1{font-family: cursive;
+   font-size: 50px;}
+
+.center{font-family: cursive;
+      font-size: 25px;
+      text-align:center;}
+
+p{
+  font-weight:bolder;
+  font-size: 20px; }
+
+form{font-size: 18px;
+  font-style: italic}
+
+#KeyPoint{color:red;
+  font-style: italic;}
+
+#ParaHead{color:blue}
+
+#MainImg{
+  border: solid;
+  margin: 5px;
+  padding: 2px;
+}
+
+div.static {
+  position: static;
+  border: 3px solid #73AD21;
+  font-size: 20px;
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  border: 2px ;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
