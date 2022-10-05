@@ -16,14 +16,6 @@ form{font-size: 18px;
 #KeyPoint{color:red;
   font-style: italic;}
 
-#ParaHead{color:blue}
-
-#MainImg{
-  border: solid;
-  margin: 5px;
-  padding: 2px;
-}
-
 div.static {
   position: static;
   border: 3px solid #73AD21;
